@@ -104,29 +104,35 @@ The most influential factors affecting customer churn were:
 
 ## 📸 Project Visualizations
 
-### Customer Churn Distribution
+### 📊 Customer Churn Distribution
+<p align="center">
+<img src="images/churn_distribution.png" width="800">
+</p>
 
-![Churn Distribution](images/churn_distribution.png)
+### 📑 Contract Type vs Churn
+<p align="center">
+<img src="images/contract_churn.png" width="800">
+</p>
 
-### Contract Type vs Churn
+### 🌐 Internet Type vs Churn
+<p align="center">
+<img src="images/internet_churn.png" width="800">
+</p>
 
-![Contract Type vs Churn](images/contract_churn.png)
+### 🎯 Feature Importance Analysis
+<p align="center">
+<img src="images/feature_importance.png" width="800">
+</p>
 
-### Internet Type vs Churn
+### 📈 Model Performance Comparison
+<p align="center">
+<img src="images/radar_chart.png" width="800">
+</p>
 
-![Internet Type vs Churn](images/internet_churn.png)
-
-### Feature Importance Analysis
-
-![Feature Importance](images/feature_importance.png)
-
-### Model Performance Comparison
-
-![Radar Chart](images/radar_chart.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
+### ✅ Confusion Matrix
+<p align="center">
+<img src="images/confusion_matrix.png" width="600">
+</p>
 
 ---
 
